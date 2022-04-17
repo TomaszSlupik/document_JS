@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+}
+
+.test {
+    padding: 20px 30px;
+}
